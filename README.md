@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwany kumar sharma</h1>
-<h3 align="center">passionate developer</h3>
+<h3 align="center">Learning</h3>
 
 - 🌱 I’m currently learning **react,backend architecture**
 
